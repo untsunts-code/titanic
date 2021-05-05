@@ -1,4 +1,4 @@
-#!/Users/laloschjetnan/Developer/titanic/bin/python
+#!/Users/laloschjetnan/Developer/titanic/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
